@@ -209,6 +209,7 @@ The list below contains information about each one of the packs contained in thi
     - **Artist/creator/curator**: MrdrCat
     - **Artist links**:
         - https://mrdrcat.bandcamp.com/
+    - **License**: CC0 1.0: CC0 1.0 Universal Public Domain Dedication (https://creativecommons.org/publicdomain/zero/1.0/)
 
 - ScotRail_Announcements
     - **Name**: ScotRail Announcements
